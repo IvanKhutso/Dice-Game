@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.game-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.player {
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    width: 150px;
+    margin: 0 10px;
+}
+
+button {
+    margin: 10px;
+}
